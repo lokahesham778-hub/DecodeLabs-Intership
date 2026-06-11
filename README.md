@@ -1,2 +1,2 @@
 # DecodeLabs-Intership
-A responsive, modern web application frontend developed using HTML5, CSS3, and JavaScript, optimized for user experience.
+A server-side application built with Node.js and Express.js, handling API routes, middleware, and database operations.
